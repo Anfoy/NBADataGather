@@ -5,7 +5,7 @@
 - HOME_TEAM, (Abbriviated ex: BOS, DAL, HOU)
 - AWAY_TEAM, (Abbriviated ex: BOS, DAL, HOU)
 - GAME_TYPE, (Playoff, Regular Season, In-Season Tournament, Playin)
-- OVERTIME, (Yes or N)
+- OVERTIME, (Yes or No)
 - HOME_TEAM_SCORE,
 - AWAY_TEAM_SCORE,
 - HOME_STARTERS, (ex: "LeBron James, Anderson Varejao, Shaquille O'Neal, Anthony Parker, Mo Williams")
