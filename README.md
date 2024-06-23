@@ -1,5 +1,5 @@
 **NBA DATA GATHER**
-- The csv file in the project is all the games for the last 15 years, including the following information in this order:
+- The csv file generated in the project is all the games for the last 15 years, including the following information in this order:
 
 - GAME_DATE, (yyyy-mm-dd)
 - HOME_TEAM, (Abbriviated ex: BOS, DAL, HOU)
